@@ -26,13 +26,13 @@ The motivation behind this project stemmed from my personal dislike for writing 
 - Tweak and tailor your generated README with the in-browser editor
 
 ## Technologies Used
-- NestJS
+- React, React Router DOM
 - Tailwind
 - OpenAI API
-- Firebase
+- Firebase Functions, Hosting
 
 ## Demo Link
-To see Write My README in action, visit the [Demo Link](https://writemyreadme.com).
+To see Write My README in action, visit the [Demo Link](https://write-my-readme.web.app/).
 
 ## Lessons Learned
 During the development of this project, I had the opportunity to work with Tailwind for the first time. Although I am still becoming familiar with it, I am finding it to be a promising and efficient tool.
